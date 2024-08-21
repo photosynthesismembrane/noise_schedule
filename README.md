@@ -1,4 +1,4 @@
-# Noise image
+# Visualize a diffusion schedule
 
 Noise an image in steps according to linear or cosine schedule. 
 
